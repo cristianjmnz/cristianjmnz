@@ -27,7 +27,7 @@ Me gusta entender cómo funcionan los sistemas por dentro — desde las redes ha
 
 ## 🚀 Proyectos
 
-### ✅ [Check List CLI](https://github.com/cristianjmnz/Check_List)
+### ✅ [Check List CLI](https://github.com/cristianjmnz/Check-List-CLI)
 Gestor de tareas en línea de comandos hecho con Python. Soporta tags personalizables con colores, orden cronológico, tiempo relativo y persistencia en JSON.
 
 `Python` `CLI` `JSON` `colorama`
