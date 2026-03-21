@@ -34,4 +34,11 @@ Gestor de tareas en línea de comandos hecho con Python. Soporta tags personaliz
 
 ---
 
+### 🌤️ [Weather APP](https://github.com/cristianjmnz/Weather-APP/tree/main)
+App web del tiempo hecha con HTML/CSS/JavaScript. Muestra temperatura, clima, pronóstico de 7 días con adaptación visual al estado del cielo.
+
+`HTML` `CSS` `JavaScript` `API` `openweathermap`
+
+---
+
 > *Cada proyecto es una excusa para aprender algo nuevo.*
