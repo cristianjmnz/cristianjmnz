@@ -1,15 +1,14 @@
 # Hola, soy Cristian 👋
 
-Estudiante de ASIR en segundo año, aprendiendo a construir cosas que funcionen de verdad.<br>
-Me gusta entender cómo funcionan los sistemas por dentro — desde las redes hasta el código.
+Me gusta entender el porqué de las cosas, no solo el cómo.
 
 ---
 
-## 🧠 Actualmente aprendiendo
+## 📚 Mi forma de aprender
 
-- Desarrollo web con **HTML, CSS y JavaScript**
-- Mejorar mis proyectos en **Python**
-- Buenas prácticas con **Git y GitHub**
+1. 📝 Documento la teoría en Obsidian.
+2. 💻 Practico con ejercicios y pequeños proyectos.
+3. 🚀 Publico el resultado en GitHub.
 
 ---
 
@@ -31,6 +30,11 @@ Me gusta entender cómo funcionan los sistemas por dentro — desde las redes ha
 Gestor de tareas en línea de comandos hecho con Python. Soporta tags personalizables con colores, orden cronológico, tiempo relativo y persistencia en JSON.
 
 `Python` `CLI` `JSON` `colorama`
+
+### 🌱 [Learning Lab](https://github.com/cristianjmnz/learning-lab)
+Repositorio donde documento mi aprendizaje mediante ejercicios y pequeños proyectos.
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
